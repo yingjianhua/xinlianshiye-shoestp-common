@@ -1,0 +1,15 @@
+#Maven
+target/
+shoeslogo-core/target/
+
+#svn
+.svn
+
+#idea
+.idea
+
+#eclipse
+.settings
+.project
+.classpath
+.factorypath
